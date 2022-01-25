@@ -1,0 +1,22 @@
+
+Digital Walaet App Reference Link
+
+https://blog.mindorks.com/android-development-best-practices-83c94b027fd3 
+
+https://developer.android.com/studio?gclid=CjwKCAiAz--OBhBIEiwAG1rIOrVC37nhdiW1uQ6zpqH9SAIG31zAMcsQgXrm02Dp_AGR3ovcLq6N9hoCCLQQAvD_BwE&gclsrc=aw.ds 
+
+https://stackoverflow.com/questions/24095223/android-linearlayout-add-border-with-shadow-around-a-linearlayout
+
+https://github.com/wasabeef/awesome-android-ui
+
+https://github.com/wasabeef/awesome-android-ui
+
+https://github.com/heysupratim/MaterialDateRangePicker
+
+https://github.com/liuguangqiang/awesome-android
+
+https://www.youtube.com/watch?v=-tCIsI7aZGk
+
+https://www.youtube.com/watch?v=741l_fPKL3Y
+
+https://jsonplaceholder.typicode.com/
